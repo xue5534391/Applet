@@ -1,0 +1,20 @@
+<!--pages/detail/detail.wxml-->
+<swiper class="swiper">
+  <swiper-item wx:for="{{detailImg}}" wx:key="{{item.id}}" class="swiper_item">
+    <image src="http://localhost:3000{{item.detailImgUrl}}" mode="aspectFit" bindtap="enlargeImg" data-currentimg="http://localhost:3000{{item.detailImgUrl}}" data-urls="{{detailImg}}"></image>
+  </swiper-item>
+</swiper>
+<view class="ProductInformation">
+  <view class="{{current===0? 'active' : ''}}" bindtap="setCurrent" data-index="{{0}}">商品列表</view>
+  <view class="{{current===1? 'active' : ''}}" bindtap="setCurrent" data-index="{{1}}">用户评价</view>
+</view>
+
+<view wx:if="{{current===0}}">
+  <image wx:for="{{detailInfo}}" wx:key="{{index}}" src="http://localhost:3000{{item}}" mode="widthFix" class="InfoImg" lazy-load="{{true}}"></image>
+</view>
+<view wx:else="">用户评价内容</view>
+
+<view class="car_bottom">
+  <view bindtap="addShopCarAction">添加购物车</view>
+  <view bindtap="carListAction">购物车列表</view>
+</view>

@@ -1,0 +1,660 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "searchId": 1,
+      "title": "荣耀9X",
+      "pice": 1299,
+      "Favorable": 97,
+      "imgUrl": "/images/img0.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail0.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail1.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail2.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "searchId": 2,
+      "title": "小米 9X",
+      "pice": 1499,
+      "Favorable": 98,
+      "imgUrl": "/images/img1.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail3.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail4.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail5.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "searchId": 1,
+      "title": "荣耀 nove7",
+      "pice": 2299,
+      "Favorable": 98,
+      "imgUrl": "/images/img2.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail6.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail7.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail8.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 4,
+      "searchId": 3,
+      "title": "三星 S20",
+      "pice": 3288,
+      "Favorable": 97,
+      "imgUrl": "/images/img3.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail0.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail1.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail2.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "searchId": 4,
+      "title": "vivo X21",
+      "pice": 1699,
+      "Favorable": 98,
+      "imgUrl": "/images/img4.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail3.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail4.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail5.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "searchId": 5,
+      "title": "诺基亚",
+      "pice": 699,
+      "Favorable": 96,
+      "imgUrl": "/images/img5.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail6.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail7.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail8.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "searchId": 6,
+      "title": "iPhone 13",
+      "pice": 4699,
+      "Favorable": 98,
+      "imgUrl": "/images/img6.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail0.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail1.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail2.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "searchId": 1,
+      "title": "荣耀10X",
+      "pice": 1899,
+      "Favorable": 97,
+      "imgUrl": "/images/img7.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail3.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail4.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail5.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "searchId": 1,
+      "title": "荣耀11X",
+      "pice": 1999,
+      "Favorable": 96,
+      "imgUrl": "/images/img3.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail6.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail7.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail8.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 10,
+      "searchId": 1,
+      "title": "荣耀12X",
+      "pice": 2199,
+      "Favorable": 97,
+      "imgUrl": "/images/img0.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail0.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail1.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail2.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 11,
+      "searchId": 1,
+      "title": "荣耀13X",
+      "pice": 2399,
+      "Favorable": 97,
+      "imgUrl": "/images/img4.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail3.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail4.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail5.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 12,
+      "searchId": 6,
+      "title": "iPhone 14",
+      "pice": 4999,
+      "Favorable": 96,
+      "imgUrl": "/images/img5.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail6.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail7.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail8.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 13,
+      "searchId": 6,
+      "title": "iPhone 15",
+      "pice": 5688,
+      "Favorable": 98,
+      "imgUrl": "/images/img2.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail0.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail1.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail2.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 14,
+      "searchId": 4,
+      "title": "vivo X24",
+      "pice": 3299,
+      "Favorable": 97,
+      "imgUrl": "/images/img7.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail3.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail4.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail5.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 15,
+      "searchId": 1,
+      "title": "荣耀 nove9",
+      "pice": 3299,
+      "Favorable": 97,
+      "imgUrl": "/images/img0.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail6.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail7.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail8.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    },
+    {
+      "id": 16,
+      "searchId": 5,
+      "title": "老年机",
+      "pice": 699,
+      "Favorable": 98,
+      "imgUrl": "/images/img6.webp",
+      "detailImg": [
+        {
+          "imgId": 1,
+          "detailImgUrl": "/images/detail0.webp"
+        },
+        {
+          "imgId": 2,
+          "detailImgUrl": "/images/detail1.webp"
+        },
+        {
+          "imgId": 3,
+          "detailImgUrl": "/images/detail2.webp"
+        }
+      ],
+      "detailInfo": [
+        "/images/shopImg0.webp",
+        "/images/shopImg1.webp",
+        "/images/shopImg2.webp",
+        "/images/shopImg3.webp",
+        "/images/shopImg4.webp",
+        "/images/shopImg5.webp",
+        "/images/shopImg6.webp",
+        "/images/shopImg7.webp",
+        "/images/shopImg8.webp",
+        "/images/shopImg9.webp",
+        "/images/shopImg10.webp"
+      ]
+    }
+  ],
+  "banner": [
+    {
+      "id": 1,
+      "bannerUrl": "/images/banner0.webp"
+    },
+    {
+      "id": 2,
+      "bannerUrl": "/images/banner1.webp"
+    },
+    {
+      "id": 3,
+      "bannerUrl": "/images/banner2.webp"
+    },
+    {
+      "id": 4,
+      "bannerUrl": "/images/banner3.webp"
+    },
+    {
+      "id": 5,
+      "bannerUrl": "/images/banner4.webp"
+    },
+    {
+      "id": 6,
+      "bannerUrl": "/images/banner5.webp"
+    }
+  ],
+  "search": [
+    {
+      "id": 1,
+      "title": "华为荣耀"
+    },
+    {
+      "id": 2,
+      "title": "小米"
+    },
+    {
+      "id": 3,
+      "title": "三星"
+    },
+    {
+      "id": 4,
+      "title": "vivo"
+    },
+    {
+      "id": 5,
+      "title": "诺基亚手机"
+    },
+    {
+      "id": 6,
+      "title": "iPhone"
+    }
+  ],
+  "userShopCar": [
+    {
+      "id": 3,
+      "nickName": "😮😮😮",
+      "commentId": 3,
+      "goodNumber": 1,
+      "checked": false
+    },
+    {
+      "id": 2,
+      "nickName": "😮😮😮",
+      "commentId": 2,
+      "goodNumber": 1,
+      "checked": false
+    },
+    {
+      "id": 1,
+      "nickName": "😮😮😮",
+      "commentId": 1,
+      "goodNumber": 2,
+      "checked": false
+    },
+    {
+      "id": 6,
+      "nickName": "😮😮😮",
+      "commentId": 6,
+      "goodNumber": 1,
+      "checked": false
+    },
+    {
+      "id": 16,
+      "nickName": "😮😮😮",
+      "commentId": 16,
+      "goodNumber": 1,
+      "checked": false
+    },
+    {
+      "id": 10,
+      "nickName": "😮😮😮",
+      "commentId": 10,
+      "goodNumber": 2,
+      "checked": false
+    }
+  ]
+}

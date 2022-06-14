@@ -1,0 +1,8 @@
+<!--pages/search/search.wxml-->
+<mp-searchbar bindinput="inputSearch" bindclear="clearSearch"  value='{{searchValue}}'></mp-searchbar>
+<view>
+  <view wx:for="{{searchList}}" wx:key="index" class="searchMain" bindtap="searchPageAction" data-type="{{item.type}}"
+  data-id="{{item.id}}"
+  data-title="{{item.title}}"
+  >{{item.title}}</view>
+</view>

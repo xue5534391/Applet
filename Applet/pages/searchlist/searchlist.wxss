@@ -1,0 +1,42 @@
+/* pages/searchlist/searchlist.wxss */
+.icon_main{
+  display: flex;
+}
+.icon_main view{
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  flex: 1;
+  font-weight: 600;
+}
+.icon_main .active{
+  color: rgb(180, 58, 58);
+}
+.search-page-list{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.search-page-list .page_list_item{
+  width: 47%;
+  border: 6rpx solid #eeeeee;
+  margin: 10rpx;
+  padding: 20rpx;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 16rpx;
+}
+.text_title{
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
+.page_list_item view{
+  font-weight: 800;
+}
+.img{
+  width: 100%;
+}
+.pice{
+  color: rgb(180, 58, 58);
+}

@@ -1,0 +1,20 @@
+<!--pages/category/category.wxml-->
+<view class="category_main">
+  <view class="Tab flex">
+    <view wx:for="{{tabList}}" wx:key="{{index}}" class="item_Tab {{currentIndex === index ? 'active': ''}}" bindtap="setCurrentIndex" data-currentindex="{{index}}">{{item.title}}</view>
+  </view>
+  <view class="Tab_Page flex">
+    <swiper class="swiper" vertical="true" current="{{currentIndex}}" bindchange="change">
+      <swiper-item class="swiper_item" wx:for="{{tabList}}" wx:key="{{index}}">
+        <scroll-view scroll-y="{{true}}" enable-flex="{{true}}">
+        <view wx:for="{{item.comments}}" class="s_item" bindtap="goPageAction" data-id="{{item.id}}" data-title="{{item.title}}">
+          <image src="http://localhost:3000{{item.imgUrl}}" mode="widthFix" class="swiper_img"></image>
+          <view class="Img_title">{{item.title}}</view>
+        </view>
+      </scroll-view>
+      </swiper-item>
+    
+      
+    </swiper>
+  </view>
+</view>

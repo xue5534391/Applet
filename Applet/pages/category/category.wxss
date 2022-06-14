@@ -1,0 +1,55 @@
+/* pages/category/category.wxss */
+.category_main{
+  height: 100%;
+  display: flex;
+}
+.category_main .Tab{
+  height: 100%;
+  text-align: center;
+  flex: 2;
+  background-color: #eeeeee;
+}
+.item_Tab{
+  height: 120rpx;
+  line-height: 120rpx;
+}
+.active{
+  font-weight:600;
+  color: rgb(180, 58, 58);
+  background-color: #ffffff;
+  border-left: 6rpx solid rgb(180, 58, 58);
+}
+.category_main .Tab_Page{
+  height: 100%;
+  flex: 5;
+}
+.swiper{
+  height: 100%;
+}
+/* scroll-view{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 100%;
+}
+.s_item{
+  height: 300rpx;
+  text-align: center;
+  margin: 10rpx;
+}
+.swiper_img{
+  width: 240rpx;
+} */
+scroll-view{
+  height: 100%;
+}
+.s_item{
+  text-align: center;
+  float: left;
+  width: 240rpx;
+  height: 300rpx;
+  margin: 10rpx;
+}
+.swiper_img{
+  width: 100%;
+}

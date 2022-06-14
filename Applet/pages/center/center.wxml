@@ -1,0 +1,5 @@
+<!--pages/center/center.wxml-->
+<view class="center_main">
+    <image class="img" src="{{avatar}}" bindtap="avatarAction"></image>
+    <view>{{nickName}}</view>
+</view>

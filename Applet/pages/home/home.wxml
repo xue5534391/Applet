@@ -1,0 +1,25 @@
+<!--pages/home/home.wxml-->
+<!-- <button bindtap="getAction">get</button> -->
+<!-- <button bindtap="postAction">post</button> -->
+<!-- <button bindtap="putAction">put</button> -->
+<!-- <button bindtap="delectAction">delect</button> -->
+<swiper class="swiper-box" indicator-dots="{{true}}" autoplay="{{true}}" interval="{{2000}}" circular="{{true}}">
+  <swiper-item wx:for="{{bannerList}}" wx:key="{{item.id}}">
+    <image src="http://localhost:3000{{item.bannerUrl}}" class="swiper_img" mode="widthFix"></image>
+  </swiper-item>
+</swiper>
+<view class="comments-box">
+  <view class="inp_box" bindtap="goSearchPage">
+    <input type="text" class="inp" placeholder="查询商品" />
+  </view>
+  <view wx:for="{{commentsList}}" wx:key="{{item.id}}" class="item_box" bindtap="detailPage" data-detailId="{{item.id}}" data-detailName="{{item.title}}">
+    <view class="comments_img">
+      <image class="item-IMG" src="http://localhost:3000{{item.imgUrl}}" mode="widthFix"></image>
+    </view>
+    <view class="comments_information">
+      <view>{{item.title}}</view>
+      <view class="pice">价格：{{"￥"+item.pice}}</view>
+      <view>好评率：{{item.Favorable+ "%"}}</view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,20 @@
+function sum(list){
+  var total = 0
+  for(var i = 0; i < list.length; i++){
+    if(list[i].checked){
+      total += list[i].goodNumber * list[i].comment.pice
+    }
+  }
+  return total.toFixed(2)
+}
+
+function allChecked(list){
+  return list.every(function(item){
+    return item.checked === true      //每一项都为true的话，返回true，反之false
+  })
+}
+
+module.exports = {
+  sum: sum,
+  allChecked: allChecked
+}

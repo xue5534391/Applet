@@ -1,0 +1,15 @@
+<!--pages/searchlist/searchlist.wxml-->
+<view class="icon_main">
+	<view class="{{current === 1? 'active': ''}}" bindtap="usePice_sort">价格排序<mp-icon type="field" icon="refresh" color="{{current === 1? 'rgb(180, 58, 58)': ''}}" size="{{24}}"></mp-icon>
+	</view>
+	<view class="{{current === 2? 'active': ''}}" bindtap="useFavorable_sort">好评排序<mp-icon type="field" icon="refresh" color="{{current === 2? 'rgb(180, 58, 58)': ''}}" size="{{24}}"></mp-icon>
+	</view>
+</view>
+<view class="search-page-list">
+	<view wx:for="{{list}}" class="page_list_item" bindtap="goSearchPage" data-id="{{item.id}}" data-title="{{item.title}}">
+		<image src="http://localhost:3000{{item.imgUrl}}" mode="widthFix" class="img"></image>
+		<view class="text_title">{{item.title}}</view>
+		<view class="pice">价格: {{item.pice}}</view>
+		<view>好评率：{{item.Favorable + '%'}}</view>
+	</view>
+</view>

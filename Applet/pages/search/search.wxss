@@ -1,0 +1,7 @@
+/* pages/search/search.wxss */
+.searchMain{
+  height: 100rpx;
+  line-height: 100rpx;
+  padding: 0 10rpx;
+  border-bottom: 6rpx solid #eee;
+}

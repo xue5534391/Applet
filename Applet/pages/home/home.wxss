@@ -1,0 +1,37 @@
+/* pages/home/home.wxss */
+.swiper-box{
+  height: 320rpx;
+}
+.swiper_img{
+  width: 100%;
+}
+.item_box{
+  display: flex;
+}
+.comments_img{
+  width: 250rpx;
+  margin: 0 10rpx;
+}
+.item-IMG{
+  width: 100%;
+}
+.comments_information view{
+  margin: 20rpx 0;
+  font-size: 32rpx;
+  font-weight: 800;
+}
+.pice{
+  color: rgb(180, 58, 58);
+}
+
+.inp_box{
+  position: sticky;
+  top: 0;
+}
+.inp{
+  height: 60rpx;
+  border: 4rpx solid #eee;
+  border-radius: 16rpx;
+  background-color: #fff;
+  padding: 8rpx 24rpx;
+}

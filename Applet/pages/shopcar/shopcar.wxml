@@ -1,0 +1,43 @@
+<!--pages/shopcar/shopcar.wxml-->
+<view class="shopcar_main">
+  <view class="cells_box">
+    <view wx:if="{{shopCarShowList.length == 0}}">
+      暂无购买的商品
+    </view>
+    <mp-cells title="购物车商品" wx:else>
+      <mp-slideview buttons="{{buttonsList}}" wx:for="{{shopCarShowList}}" wx:key="{{index}}" bindbuttontap="delectAction" data-delectid="{{item.id}}">
+        <mp-cell class="cell">
+          <view class="content"> 
+            <checkbox checked="{{item.checked}}" bindtap="setChecked" data-item="{{item}}"></checkbox>
+            <image src="http://localhost:3000{{item.comment.imgUrl}}" mode="aspectFit" class="img"></image>
+            <view>
+              <view>{{item.comment.title}}</view>
+              <view style="color: rgb(180, 58, 58);">￥{{item.comment.pice}}</view>
+            </view>
+          </view>
+          <view slot="footer" class="btn_right">
+            <text bindtap="reduceAction" data-item="{{item}}">-</text>
+            <text>{{item.goodNumber}}</text>
+            <text bindtap="increaseAction" data-item="{{item}}">+</text>
+          </view>
+        </mp-cell>
+      </mp-slideview>
+    </mp-cells>
+  </view>
+
+  <wxs src="./shop.wxs" module="car"></wxs>
+  <view class="settlement_box">
+    <view class="settlement">
+      <view style="padding-left: 30rpx;">
+        <checkbox-group bindchange="checkChangeAction">
+        <checkbox disabled="{{shopCarShowList.length <=0}}" checked="{{car.allChecked(shopCarShowList)}}"></checkbox>
+        <text>全选</text>
+        </checkbox-group>
+      </view>
+      <view>
+        <text style="color: rgb(180, 58, 58);">总价：{{car.sum(shopCarShowList)}}</text>
+        <button type="primary" size="mini" style="line-height: 80rpx;">去结算</button>
+      </view>
+    </view>
+  </view>
+</view>
