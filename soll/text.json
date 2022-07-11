@@ -614,47 +614,6 @@
     }
   ],
   "userShopCar": [
-    {
-      "id": 3,
-      "nickName": "😮😮😮",
-      "commentId": 3,
-      "goodNumber": 1,
-      "checked": false
-    },
-    {
-      "id": 2,
-      "nickName": "😮😮😮",
-      "commentId": 2,
-      "goodNumber": 1,
-      "checked": false
-    },
-    {
-      "id": 1,
-      "nickName": "😮😮😮",
-      "commentId": 1,
-      "goodNumber": 2,
-      "checked": false
-    },
-    {
-      "id": 6,
-      "nickName": "😮😮😮",
-      "commentId": 6,
-      "goodNumber": 1,
-      "checked": false
-    },
-    {
-      "id": 16,
-      "nickName": "😮😮😮",
-      "commentId": 16,
-      "goodNumber": 1,
-      "checked": false
-    },
-    {
-      "id": 10,
-      "nickName": "😮😮😮",
-      "commentId": 10,
-      "goodNumber": 2,
-      "checked": false
-    }
+    
   ]
 }
